@@ -1,3 +1,4 @@
+using Catalog.Host.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Catalog.Host.Controllers;

@@ -1,4 +1,4 @@
-namespace Catalog.Host;
+namespace Catalog.Host.Models;
 
 public class WeatherForecast
 {
